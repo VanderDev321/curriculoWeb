@@ -1,0 +1,95 @@
+
+ body {
+  font-family: 'Zen Antique', serif;
+  margin:1px;
+}
+
+header{
+  height: 355px;
+  background-color: #1C1C1C;
+  display:block;
+  text-align: center;
+
+}
+
+#imagem{
+  border-radius: 120px;
+}
+
+.imagemPerfil , .nomePrincipal , .informacaoPessoal {
+  height: auto;
+  padding: auto;
+  color: #DCDCDC;
+  line-height: 1.35em;
+}
+
+.imagemPerfil{
+  width: auto;
+}
+
+.nomePrincipal  {
+  width: auto;
+  text-transform: uppercase;
+  font-size: 1.5em;
+}
+
+ .descricaoCargo{
+  font-size: 1.30em;
+}
+
+.informacaoPessoal{
+  width: auto;
+  font-size: 1em;
+}
+.label{
+  font-weight: bold;
+}
+
+
+main{
+  height: 950px;
+  background-color: #DCDCDC;
+}
+
+h2{
+  padding: 10px 0 10px 0;
+  text-align: center;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+.sobreMim , .informacaoEducacional {
+  font-size: 1.1em;
+  text-align: justify;
+  line-height: 1.5em;
+  margin:0 55px 50px 55px;
+}
+.formacao {
+  font-size: 1.2em;
+  margin: 15px 0px 0px 15px;
+  text-align: center;
+}
+ul{
+  list-style-type:disc;
+}
+
+.listaCursos {
+margin: 20px 0px 0px 10px;
+line-height: 1.75em;
+}
+
+.listaExperiencia{
+  font-size: 1.1em;
+  line-height: 1.5em;
+  margin: 20px 0px 0px 35px ;
+}
+
+footer{
+  height: 90px;
+  display: block;
+  text-align: center;
+  color:  #DCDCDC;
+  background-color:#1C1C1C;
+}
+.footer{
+  line-height: 1.5em;
+}
